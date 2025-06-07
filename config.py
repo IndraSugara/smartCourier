@@ -1,0 +1,13 @@
+# Configuration file
+WINDOW_WIDTH = 1200
+WINDOW_HEIGHT = 800
+FPS = 60
+MAP_OFFSET = (10, 10)
+DEFAULT_MAP_PATH = "map_default.png"
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+YELLOW = (255, 255, 0)
+RED = (255, 0, 0)
+GRAY = (128, 128, 128)
+ROAD_COLOR_MIN = (90, 90, 90)
+ROAD_COLOR_MAX = (150, 150, 150)
